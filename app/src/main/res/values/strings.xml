@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RabbitAndTurtle</string>
+    <string name="channel_name">Challenger</string>
+    <string name="channel_description">Setting Notification</string>
+</resources>
